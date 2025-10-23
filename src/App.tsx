@@ -1,9 +1,10 @@
 import "./App.css";
+import AvatarInfo from "./components/AvatarInfo";
 
 function App() {
   return (
     <>
-      <h1>Welcome to Binnacle App</h1>
+      
     </>
   );
 }
